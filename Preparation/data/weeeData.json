@@ -1,0 +1,191 @@
+[
+    {
+        "Category":"Require selective treatment",
+        "Material":"Cable (high current)",
+        "RecyclingRate":0.33,
+        "RecoveryRate":0.33,
+        "Description":""
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"Cable (low current)",
+        "RecyclingRate":0.24,
+        "RecoveryRate":0.24,
+        "Description":""
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"Battery (lead-acid)",
+        "RecyclingRate":0.6,
+        "RecoveryRate":0.6,
+        "Description":""
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"Battery (Ni-Cd) (2 type: portable (<1 kg); non-portable (>1 kg))",
+        "RecyclingRate":0.7,
+        "RecoveryRate":0.7,
+        "Description":"背光燈"
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"Other battery",
+        "RecyclingRate":0.45,
+        "RecoveryRate":0.45,
+        "Description":""
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"PWB (printed wiring board with components)",
+        "RecyclingRate":0.18,
+        "RecoveryRate":0.61,
+        "Description":""
+    },
+    {
+        "Category":"Require selective treatment",
+        "Material":"CRT (cathode ray tube)",
+        "RecyclingRate":0.9,
+        "RecoveryRate":0.9,
+        "Description":""
+    },
+    {
+        "Category":"Single recyclable material",
+        "Material":"Known Plastic",
+        "RecyclingRate":0.94,
+        "RecoveryRate":0.95,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Single recyclable material",
+        "Material":"PP with natural fibres (這個東西通常是在線皮內的白色纖維)",
+        "RecyclingRate":0.94,
+        "RecoveryRate":0.95,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Single recyclable material",
+        "Material":"Unknown Plastic",
+        "RecyclingRate":0,
+        "RecoveryRate":0.05,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Single recyclable material",
+        "Material":"Metals",
+        "RecyclingRate":0.95,
+        "RecoveryRate":0.95,
+        "Description":"Metal"
+    },
+    {
+        "Category":"Difficult to process",
+        "Material":"Bulb",
+        "RecyclingRate":0,
+        "RecoveryRate":0,
+        "Description":""
+    },
+    {
+        "Category":"Difficult to process",
+        "Material":"Motors",
+        "RecyclingRate":0.85,
+        "RecoveryRate":0.85,
+        "Description":"交流馬達"
+    },
+    {
+        "Category":"Difficult to process",
+        "Material":"Heatsink (散熱器)",
+        "RecyclingRate":0.93,
+        "RecoveryRate":0.93,
+        "Description":"散熱器"
+    },
+    {
+        "Category":"Difficult to process",
+        "Material":"Cable (optical) (電器內部較複雜的Cable 如USE,音源線,等等)",
+        "RecyclingRate":0,
+        "RecoveryRate":0,
+        "Description":""
+    },
+    {
+        "Category":"Separation process",
+        "Material":"ABS",
+        "RecyclingRate":0.74,
+        "RecoveryRate":0.75,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"ABS with any addtive",
+        "RecyclingRate":0,
+        "RecoveryRate":0.05,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"PP",
+        "RecyclingRate":0.9,
+        "RecoveryRate":0.91,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"PP+EPDM",
+        "RecyclingRate":0.9,
+        "RecoveryRate":0.91,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"PP+GF",
+        "RecyclingRate":0.9,
+        "RecoveryRate":0.91,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"P/E",
+        "RecyclingRate":0.9,
+        "RecoveryRate":0.91,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"HIPS",
+        "RecyclingRate":0.83,
+        "RecoveryRate":0.84,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"Other Plastic",
+        "RecyclingRate":0,
+        "RecoveryRate":0.05,
+        "Description":"Plastic"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"Aluminum",
+        "RecyclingRate":0.91,
+        "RecoveryRate":0.91,
+        "Description":"Metal"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"Steel",
+        "RecyclingRate":0.94,
+        "RecoveryRate":0.94,
+        "Description":"Metal"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"Copper",
+        "RecyclingRate":0.85,
+        "RecoveryRate":0.85,
+        "Description":"Metal"
+    },
+    {
+        "Category":"Separation process",
+        "Material":"Other metal",
+        "RecyclingRate":0.7,
+        "RecoveryRate":0.7,
+        "Description":"Metal"
+    }
+]

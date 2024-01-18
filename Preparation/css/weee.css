@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(248, 240, 229);
+}
+
+.category-container{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 75%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+.category-title{
+    margin-top: 3rem;
+    font-size: 1.8rem;
+    font-weight:bold;
+}
+.category{
+}
+
+.component_data{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 0;
+}
+
+.component_row:hover{
+    background-color: rgb(182, 152, 152);
+}
+
+.component_data_title{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 0;
+    background-color: lightblue;
+}
+
+.component_row{
+    display: grid;
+    grid-template-columns: 40% 20% 20% 20%;
+}
+
+.outsideComponent{
+    color: rgb(6, 6, 80);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.outsideComponent:hover{
+    background-color: yellowgreen;
+}
